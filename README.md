@@ -1935,11 +1935,11 @@ PHP-তে বিভিন্ন ধরনের Operator রয়েছে:
 | Operator | Name          | Example | Result |
 |----------|--------------|---------|--------|
 | `+`      | Addition     | `$a + $b` | যোগ |
-| `-` | Subtraction | `$a - $b` | 
-| `*` | Multiplication | `$a * $b` |
-| `/` | Division | `$a / $b` |
-| `%` | Modulus | `$a % $b` |
-| `**`| Exponentiation | `$a ** $b` |
+| `-` | Subtraction | `$a - $b` | বিয়োগ 
+| `*` | Multiplication | `$a * $b` | গুন
+| `/` | Division | `$a / $b` | ভাগ
+| `%` | Modulus | `$a % $b` | ভাগশেস 
+| `**`| Exponentiation | `$a ** $b` | ঘাত/পাওয়ার
 
 **Example:**
 ```php
