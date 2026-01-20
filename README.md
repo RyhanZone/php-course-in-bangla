@@ -1932,14 +1932,15 @@ PHP-তে বিভিন্ন ধরনের Operator রয়েছে:
 
 ### Arithmetic Operators ➕➖✖️➗
 
-| Operator | Name          | Example | Result |
-|----------|--------------|---------|--------|
-| `+`      | Addition     | `$a + $b` | যোগ |
-| `-` | Subtraction | `$a - $b` | 
-| `*` | Multiplication | `$a * $b` |
-| `/` | Division | `$a / $b` |
-| `%` | Modulus | `$a % $b` |
-| `**`| Exponentiation | `$a ** $b` |
+| Operator | Name             | Example    | Result (বাংলা) |
+|----------|-----------------|------------|----------------|
+| `+`      | Addition         | `$a + $b` | যোগ            |
+| `-`      | Subtraction      | `$a - $b` | বিয়োগ          |
+| `*`      | Multiplication   | `$a * $b` | গুণ            |
+| `/`      | Division         | `$a / $b` | ভাগ            |
+| `%`      | Modulus          | `$a % $b` | ভাগশেষ        |
+| `**`     | Exponentiation   | `$a ** $b` | ঘাত           |
+
 
 **Example:**
 ```php
